@@ -1,5 +1,5 @@
 {
-  "name": "treblecode-vsc",
+  "name": "industrious-blue",
   "displayName": "Industrious Blue",
   "description": "Dark grey-blue theme with medium and light blue accents",
   "version": "0.0.1",
@@ -9,7 +9,7 @@
   "categories": [
     "Themes"
   ],
-  "publisher": "industrious-blue",
+  "publisher": "treblecode-extensions",
   "repository": {
     "type": "git",
     "url": "https://github.com/trebleCode/industrious-blue"
