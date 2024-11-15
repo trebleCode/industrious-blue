@@ -2,10 +2,11 @@
   "name": "industrious-blue",
   "displayName": "Industrious Blue",
   "description": "Dark grey-blue theme with medium and light blue accents",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.95.0"
   },
+  "icon": "images/industrious-blue-bot-marketplace.png",
   "categories": [
     "Themes"
   ],
