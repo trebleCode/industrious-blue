@@ -3,6 +3,9 @@
  <p align="center">
   <img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/industrious-blue-bot.jpeg" alt="Industrious Blue Bot"/>
 </p>
+<p align=center>
+A dark theme for VS Code focused on muted blues and greys
+</p>
 
 ![Screenshot](https://raw.githubusercontent.com/treblecode/industrious-blue/main/images/screen1.png)
 ![Screenshot](https://raw.githubusercontent.com/treblecode/industrious-blue/main/images/screen2.png)
