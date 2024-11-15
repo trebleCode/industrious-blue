@@ -1,6 +1,6 @@
 {
-  "name": "industriousblue",
-  "displayName": "IndustriousBlue",
+  "name": "industrious-blue",
+  "displayName": "Industrious Blue",
   "description": "Dark grey-blue theme with medium and light blue accents",
   "version": "0.0.1",
   "engines": {
@@ -8,6 +8,38 @@
   },
   "categories": [
     "Themes"
+  ],
+  "publisher": "trebleCode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trebleCode/industrious-blue"
+  },
+  "keywords": [
+    "industrial",
+    "industrial blue",
+    "blue grey",
+    "grey blue",
+    "robot",
+    "industrial robot",
+    "blue theme",
+    "grey theme",
+    "tron",
+    "future",
+    "futuristic",
+    "cyan",
+    "industrial-blue",
+    "industrial blue theme",
+    "industrial-blue theme",
+    "trebleCode",
+    "trebleCodeofficial",
+    "treble code",
+    "treblecode theme",
+    "treblecode industrial",
+    "treblecode industrial blue",
+    "treblecode industrial-blue",
+    "treblecode industrial blue theme",
+    "treblecode industrial theme",
+    "treblecode industrial-blue theme"
   ],
   "author": {
     "name": "trebleCode",
