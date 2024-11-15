@@ -1,0 +1,26 @@
+{
+  "name": "industriousblue",
+  "displayName": "IndustriousBlue",
+  "description": "Dark grey-blue theme with medium and light blue accents",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "trebleCode",
+    "email": "trebleCodeofficial@gmail.com",
+    "url": "https://github.com/trebleCode"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Industrious Blue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Industrious Blue-color-theme.json"
+      }
+    ]
+  }
+}
