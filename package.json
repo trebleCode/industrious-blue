@@ -1,8 +1,8 @@
 {
   "name": "industrious-blue",
   "displayName": "Industrious Blue",
-  "description": "Blue and grey dark theme with few borders",
-  "version": "0.0.4",
+  "description": "Blue and grey dark theme with minimal borders",
+  "version": "0.0.4-1",
   "engines": {
     "vscode": "^1.95.0"
   },
@@ -18,11 +18,11 @@
   "keywords": [
     "theme",
     "dark theme",
+    "grey theme",
+    "blue theme",
     "industrial",
     "industrial-blue",
     "industrial blue",
-    "grey theme",
-    "blue theme",
     "treblecode",
     "treblecode-vsc"
   ],
