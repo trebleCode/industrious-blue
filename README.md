@@ -32,12 +32,12 @@ https://code.visualstudio.com/docs/getstarted/settings#_settings-json-file
 In your settings.json file, add a key of "workbench.colorCustomizations" as an object.
 
 Ex.
-
+```
 "workbench.colorCustomizations": {
 	"activityBar.activeBackground": "#025687",
         "activityBar.background": "#010c13"
 }
-
+```
 	
 Disable all other active themes.
 Copy and paste the customizations below into your settings.json file and save.
