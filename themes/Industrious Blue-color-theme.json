@@ -11,7 +11,6 @@
                 "editor.findMatchBackground": "#0e364d",
                 "editor.findMatchHighlightBackground": "#0e364d",
                 "editorGroup.border": "#010c13",
-                "editorFindWidget.findInput.selectionBackground": "#c7c6c6",
                 "editorGroupHeader.tabsBackground": "#010c13",
                 "editorGroupHeader.border": "#010c13",
                 "editorOverviewRuler.border": "#8f0d0d00",
