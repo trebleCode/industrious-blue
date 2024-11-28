@@ -1,9 +1,10 @@
 # Change Log
 
-All notable changes to the "industriousblue" extension will be documented in this file.
+v0.0.8
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
+- updated minimap background colors
+- added border to parameter hints
+- changed quickpick colors
+- reduced minimum VS Code version to 1.85
 
 - Initial release
