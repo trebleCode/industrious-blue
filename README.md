@@ -8,6 +8,60 @@
 A dark theme for VS Code with blues and greys
 </p>
 
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/full-view.png" />
+</p>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/multipage-menu.png" />
+</p>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/editor-find.png" />
+</p>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/editor-find-replace.png" />
+</p>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/side-with-explorer.png" />
+</p>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/editor-minimap-highlights.png" />
+</p>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/explorer-selection.png" />
+</p>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/explorer-existing-selection.png" />
+</p>
+<br>
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/quickpick-with-selection.png" />
+</p>
+<br>
+
+
+
+<p>
+<img src="https://raw.githubusercontent.com/trebleCode/industrious-blue/main/images/extension-view.png" />
+</p>
+<br />
+<br />
+
+
 <br />
 ## Contributing
 
