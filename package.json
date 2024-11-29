@@ -2,7 +2,7 @@
   "name": "industrious-blue",
   "displayName": "Industrious Blue",
   "description": "Blue and grey dark theme with minimal borders",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.85.0"
   },
